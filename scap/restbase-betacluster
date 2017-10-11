@@ -1,2 +1,4 @@
 deployment-restbase01.deployment-prep.eqiad.wmflabs
 deployment-restbase02.deployment-prep.eqiad.wmflabs
+deployment-cassandra3-01.deployment-prep.eqiad.wmflabs
+deployment-cassandra3-02.deployment-prep.eqiad.wmflabs
